@@ -1,8 +1,6 @@
-## Tab Tools
+# Tab Tools (Google Chrome extension)
 
-Roughly inspired by / loosed based on / vaguely forked from
-[Keyboard Shortcuts to Reorder Tabs](https://chrome.google.com/webstore/detail/moigagbiaanpboaflikhdhgdfiifdodd).
-Thanks, [Greg Bullock](http://bonstio.net/)!
+Move current tab left (⌘⌃[), right (⌘⌃]), first (⌘⌃0), or last (⌘⌃9).
 
 | Short  | Long                              | Result                   |
 |:-------|:----------------------------------|:-------------------------|
@@ -29,3 +27,16 @@ Thanks, [Greg Bullock](http://bonstio.net/)!
 * https://developer.chrome.com/extensions/tabs
 * https://developer.chrome.com/extensions/event_pages
 * https://developer.chrome.com/extensions/content_scripts
+
+
+## Credits
+
+Roughly inspired by / loosed based on / vaguely forked from
+[Keyboard Shortcuts to Reorder Tabs](https://chrome.google.com/webstore/detail/moigagbiaanpboaflikhdhgdfiifdodd).
+Thanks, [Greg Bullock](http://bonstio.net/)!
+
+
+## License
+
+Copyright 2017-2018 Christopher Brown.
+[MIT Licensed](https://chbrown.github.io/licenses/MIT/#2017-2018).
